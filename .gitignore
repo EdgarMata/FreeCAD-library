@@ -7,3 +7,9 @@
 Private
 *.bak
 .DS_Store
+# SolidWorks files
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+# SW Templates folder
+SW Templates/
