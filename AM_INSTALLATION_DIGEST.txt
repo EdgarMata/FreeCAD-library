@@ -1,0 +1,2 @@
+# The following files were created outside this installation path during the installation of this Addon on 2025-01-10 08:52:33.043649+00:00:
+C:\Users\EdgarMata\AppData\Roaming\FreeCAD\Macro\PartsLibrary.FCMacro
